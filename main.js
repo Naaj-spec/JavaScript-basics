@@ -1,5 +1,3 @@
-<script src="main.js"></script>
-
 
 // Part 1: Data Types
 let str = "Hello, World!";
